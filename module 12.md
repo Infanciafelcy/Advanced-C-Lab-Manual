@@ -10,7 +10,7 @@ To write a C program to display stack elements using linked list.
 4. Use a loop to traverse and print stack elements.  
 
 ### Program
-~~~c
+~~~
 #include <stdio.h>
 #include <stdlib.h>
 
